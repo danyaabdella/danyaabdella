@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniya</h1>
 <h3 align="center">A passionate Full stack developer.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=danyaabdella&label=Profile%20views&color=0e75b6&style=flat" alt="danyaabdella" />
-</p>
+
 
 - 🛠️ I’m currently working on **Next.js**  
-- 🌱 I’m currently learning **Next.js and React.js**  
+- 🌱 I’m currently learning **Next.js and Docker**  
 - 💬 Ask me about **React, Next.js, MongoDB, MERN Stack, Docker**  
 - 📫 How to reach me: **(mailto:danyaabdella@gmail.com)**
 
@@ -28,5 +26,10 @@
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
 </p>
