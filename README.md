@@ -32,4 +32,19 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 </p>
+---
+
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danyaabdella&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danyaabdella&theme=radical" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyaabdella&layout=compact&theme=radical" />
+</p>
+
